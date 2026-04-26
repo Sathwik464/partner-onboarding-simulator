@@ -87,6 +87,8 @@ partner-onboarding-simulator/
 | `GET` | `/partners` | List all partners |
 | `GET` | `/partners/{id}` | Get partner by ID |
 | `POST` | `/validate/{id}` | Run validation + generate health report |
+| `POST` | `/auth/register` | Register new user |
+| `POST` | `/auth/login` | Login and get JWT token |
 
 ---
 
