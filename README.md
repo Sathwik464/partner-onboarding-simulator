@@ -1,6 +1,6 @@
 # Partner Integration Onboarding Simulator
 
-A REST API platform that validates publisher API integrations against Google Ad Manager configuration standards — simulating real-world **Product Solutions Engineer** workflows at Google.
+A REST API platform that validates publisher API integrations against Google Ad Manager configuration standards - simulating real-world **Product Solutions Engineer** workflows at Google.
 
 ---
 
@@ -209,6 +209,6 @@ This project directly mirrors Product Solutions Engineer responsibilities at Goo
 ## Author
 
 **Sathwik K**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Blog: [your blog link]
+- GitHub: [@Sathwik464](https://github.com/Sathwik464)
+- LinkedIn: [linkedin.com/in/sathwik46](https://www.linkedin.com/in/sathwik46)
+- Blog: [https://sathwikk.hashnode.dev/]
