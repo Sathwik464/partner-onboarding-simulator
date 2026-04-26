@@ -1,0 +1,9 @@
+﻿.env
+pse/
+__pycache__/
+*.pyc
+*.pyo
+test_connection.py
+pyvenv.cfg
+.vscode/
+.idea/
