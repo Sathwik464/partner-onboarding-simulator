@@ -8,9 +8,7 @@ class PartnerCreate(BaseModel):
     api_endpoint:str
     auth_method:Literal['OAuth', 'JWT','APIKey']
     
-    
 
-    
     
     
     
