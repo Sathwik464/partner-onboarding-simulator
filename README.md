@@ -211,6 +211,6 @@ This project directly mirrors Product Solutions Engineer responsibilities at Goo
 ## Author
 
 **Sathwik K**
-- GitHub: [@Sathwik464](https://github.com/Sathwik464)
+- GitHub: [Sathwik464](https://github.com/Sathwik464)
 - LinkedIn: [linkedin.com/in/sathwik46](https://www.linkedin.com/in/sathwik46)
-- Blog: [https://sathwikk.hashnode.dev/]
+- Blog: https://sathwikk.hashnode.dev/
